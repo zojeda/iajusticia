@@ -1,0 +1,71 @@
+---
+title: "IA en la Justicia"
+date: "10/23/2019"
+output:
+  revealjs::revealjs_presentation:
+    theme: league
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Inteligencia Artificial
+
+## Inteligencia Artificial
+
+* Es la inteligencia llevada a cabo por máquina
+* máquina imita las funciones «cognitivas» que los humanos asocian con otras mentes humanas, como por ejemplo: *percibir*, *razonar*, *aprender* y *resolver problemas*
+
+## Aprendizaje automático
+
+Rama de la inteligencia artificial, cuyo objetivo es desarrollar técnicas que permitan que las computadoras aprendan
+
+## Límites de la Inteligencia artificial
+
+### *Strong AI*
+* Computadoras *pensando* a nivel humano
+* Pensamiento abstracto
+* **no hay evidencia de que estemos cerca de este punto**
+
+### *Weak AI*
+* Computadoras resuelven problemas detectando patrones
+* **Es el modo dominante al día de hoy**
+
+## En el tiempo
+![ia_ml_dl](ia_ml_dl.png)
+
+# Tecnología
+
+## Cómputo: Ley de Moore
+![moore](moores_law.png)
+
+## Almacenamiento
+
+![dico](disco_ibm_5mb.png)
+
+
+# Aplicaciones
+
+## Kira Systems
+
+[Kira Systems](https://kirasystems.com/benefits)
+
+## Diligencia Debida
+![Diligencia Debida](https://kirasystems.com/images/screenshots/search-and-review.gif)
+
+
+## Analisis de Contrato
+![Analisis de Contrato](https://kirasystems.com/images/screenshots/force-majeure-search.gif)
+
+## [Loom Analytics](https://www.loomanalytics.com/)
+
+* Análisis de fallos 
+* Genera estadísticas
+* Interfaz de exploración amigable
+
+
+## [Clerk](https://blog.judicata.com/introducing-clerk-848abbed8fd3)
+
+![Clerk Evaluacion](https://miro.medium.com/max/998/1*bzFaE-u4DxkzmbYW93_VaQ.png)
+
